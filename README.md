@@ -8,7 +8,9 @@ This project contains a simple bank management system.
 
 ### Installation
 
+```
 git clone https://github.com/IlanAdivi/BankManagementSystem-Server.git
+```
 
 ### Getting Started
 

@@ -6,11 +6,11 @@ This part contains backend in ASP.NET with connection to MSSQL.
 
 This project contains a simple bank management system.
 
-###Installation
+### Installation
 
 git clone https://github.com/IlanAdivi/BankManagementSystem-Server.git
 
-###Getting Started
+### Getting Started
 
 Please open the folder BankManagementSystem-Server
 Then, open the folder BankManagementSystem,

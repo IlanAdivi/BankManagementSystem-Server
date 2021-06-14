@@ -13,7 +13,9 @@ git clone https://github.com/IlanAdivi/BankManagementSystem-Server.git
 ### Getting Started
 
 Please open the folder BankManagementSystem-Server
+
 Then, open the folder BankManagementSystem,
+
 And Then open the folder BankManagementSystem.csproj.
 
 Then, run the application.
